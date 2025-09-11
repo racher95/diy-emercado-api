@@ -1,0 +1,60 @@
+{
+  "catID": 205,
+  "catName": "Hogar & Jardín",
+  "products": [
+    {
+      "id": 3026,
+      "name": "Maceta auto-riego",
+      "description": "Maceta con depósito inferior e indicador de nivel.",
+      "cost": 590,
+      "currency": "UYU",
+      "soldCount": 292,
+      "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": 3027,
+      "name": "Jardinera de balcón",
+      "description": "Jardinera de madera con anclaje regulable.",
+      "cost": 1990,
+      "currency": "UYU",
+      "soldCount": 106,
+      "image": "https://images.unsplash.com/photo-1493666438817-866a91353ca9?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": 3028,
+      "name": "Organizador de llaves mural",
+      "description": "Perchero/organizador de entrada.",
+      "cost": 790,
+      "currency": "UYU",
+      "soldCount": 371,
+      "image": "https://images.unsplash.com/photo-1460899960812-f6ee1ecaf117?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": 3029,
+      "name": "Huerta vertical",
+      "description": "Sistema modular para pared, apto interiores.",
+      "cost": 3490,
+      "currency": "UYU",
+      "soldCount": 337,
+      "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": 3030,
+      "name": "Velas aromáticas kit",
+      "description": "Kit para 4 velas de soja, aromas cítricos.",
+      "cost": 1290,
+      "currency": "UYU",
+      "soldCount": 364,
+      "image": "https://images.unsplash.com/photo-1493666438817-866a91353ca9?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": 3031,
+      "name": "Perchero minimalista",
+      "description": "Perchero de pared con 5 pernos de madera.",
+      "cost": 990,
+      "currency": "UYU",
+      "soldCount": 284,
+      "image": "https://images.unsplash.com/photo-1460899960812-f6ee1ecaf117?q=80&w=1200&auto=format&fit=crop"
+    }
+  ]
+}

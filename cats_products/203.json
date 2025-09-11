@@ -1,0 +1,60 @@
+{
+  "catID": 203,
+  "catName": "Electrónica DIY",
+  "products": [
+    {
+      "id": 3014,
+      "name": "Kit temporizador NE555",
+      "description": "Arma tu propio temporizador con NE555. Incluye PCB y componentes.",
+      "cost": 890,
+      "currency": "UYU",
+      "soldCount": 284,
+      "image": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": 3015,
+      "name": "Luz LED con sensor PIR",
+      "description": "Módulo para luz de presencia de bajo consumo.",
+      "cost": 1290,
+      "currency": "UYU",
+      "soldCount": 49,
+      "image": "https://images.unsplash.com/photo-1555617981-dac3880c5f86?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": 3016,
+      "name": "Módulo relé WiFi",
+      "description": "Controla cargas desde el celular con ESP8266 + relé.",
+      "cost": 1590,
+      "currency": "UYU",
+      "soldCount": 307,
+      "image": "https://images.unsplash.com/photo-1516642499105-492ff3ac521e?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": 3017,
+      "name": "Kit medidor de temperatura",
+      "description": "Termómetro con sonda NTC y display 7 segmentos.",
+      "cost": 1190,
+      "currency": "UYU",
+      "soldCount": 221,
+      "image": "https://images.unsplash.com/photo-1555617981-dac3880c5f86?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": 3018,
+      "name": "Mini amplificador",
+      "description": "Amplificador clase D 2x3W para altavoces pequeños.",
+      "cost": 990,
+      "currency": "UYU",
+      "soldCount": 21,
+      "image": "https://images.unsplash.com/photo-1516642499105-492ff3ac521e?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": 3019,
+      "name": "Fuente regulable",
+      "description": "Kit LM317 con potenciómetro y disipador.",
+      "cost": 1490,
+      "currency": "UYU",
+      "soldCount": 20,
+      "image": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1200&auto=format&fit=crop"
+    }
+  ]
+}

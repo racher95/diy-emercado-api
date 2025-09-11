@@ -1,0 +1,26 @@
+[
+  {
+    "score": 5,
+    "description": "Los planos están claros y bien explicados.",
+    "user": "sofi",
+    "dateTime": "2025-09-10 04:12:50"
+  },
+  {
+    "score": 4,
+    "description": "La calidad del kit es excelente.",
+    "user": "nicolas",
+    "dateTime": "2025-09-10 04:12:50"
+  },
+  {
+    "score": 3,
+    "description": "La calidad del kit es excelente.",
+    "user": "marta",
+    "dateTime": "2025-09-10 04:12:50"
+  },
+  {
+    "score": 3,
+    "description": "Funciona perfecto, lo recomiendo.",
+    "user": "emi",
+    "dateTime": "2025-09-10 04:12:50"
+  }
+]

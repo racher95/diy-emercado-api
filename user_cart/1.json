@@ -1,0 +1,21 @@
+{
+  "user": 1,
+  "articles": [
+    {
+      "id": 3002,
+      "name": "Estantería flotante",
+      "count": 1,
+      "unitCost": 10999,
+      "currency": "UYU",
+      "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": 3003,
+      "name": "Banco de trabajo plegable",
+      "count": 2,
+      "unitCost": 18990,
+      "currency": "UYU",
+      "image": "https://images.unsplash.com/photo-1513530176992-0cf39c4cbed4?q=80&w=1200&auto=format&fit=crop"
+    }
+  ]
+}

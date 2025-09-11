@@ -1,0 +1,34 @@
+{
+  "id": 3006,
+  "name": "Soporte monitor de madera",
+  "description": "Eleva tu monitor y libera espacio en escritorio.",
+  "cost": 2490,
+  "currency": "UYU",
+  "soldCount": 145,
+  "category": {
+    "id": 201,
+    "name": "Carpintería DIY"
+  },
+  "images": [
+    "https://images.unsplash.com/photo-1513530176992-0cf39c4cbed4?q=80&w=1200&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1513530176992-0cf39c4cbed4?q=80&w=1200&auto=format&fit=crop&sat=-25",
+    "https://images.unsplash.com/photo-1513530176992-0cf39c4cbed4?q=80&w=1200&auto=format&fit=crop&blur=0"
+  ],
+  "relatedProducts": [
+    {
+      "id": 3007,
+      "name": "Caja para brocas",
+      "image": "https://images.unsplash.com/photo-1504148455329-4c065f9f3972?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": 3004,
+      "name": "Organizador de herramientas",
+      "image": "https://images.unsplash.com/photo-1504148455329-4c065f9f3972?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": 3005,
+      "name": "Mesa de café rústica",
+      "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?q=80&w=1200&auto=format&fit=crop"
+    }
+  ]
+}

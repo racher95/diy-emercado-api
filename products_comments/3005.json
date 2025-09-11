@@ -1,0 +1,32 @@
+[
+  {
+    "score": 4,
+    "description": "Fácil de armar, ideal para principiantes.",
+    "user": "kevin",
+    "dateTime": "2025-09-10 04:12:50"
+  },
+  {
+    "score": 5,
+    "description": "La calidad del kit es excelente.",
+    "user": "leo",
+    "dateTime": "2025-09-10 04:12:50"
+  },
+  {
+    "score": 5,
+    "description": "Funciona perfecto, lo recomiendo.",
+    "user": "sofi",
+    "dateTime": "2025-09-10 04:12:50"
+  },
+  {
+    "score": 4,
+    "description": "Funciona perfecto, lo recomiendo.",
+    "user": "emi",
+    "dateTime": "2025-09-10 04:12:50"
+  },
+  {
+    "score": 5,
+    "description": "La calidad del kit es excelente.",
+    "user": "sofi",
+    "dateTime": "2025-09-10 04:12:50"
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "catID": 204,
+  "catName": "Textil & Costura",
+  "products": [
+    {
+      "id": 3020,
+      "name": "Funda de almohadón",
+      "description": "Funda con cierre oculto. Incluye patrón.",
+      "cost": 590,
+      "currency": "UYU",
+      "soldCount": 52,
+      "image": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": 3021,
+      "name": "Tote bag reforzada",
+      "description": "Bolso de tela resistente, costuras francesas.",
+      "cost": 790,
+      "currency": "UYU",
+      "soldCount": 116,
+      "image": "https://images.unsplash.com/photo-1504809631071-ec3fd87f2f16?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": 3022,
+      "name": "Estuche para herramientas",
+      "description": "Cartuchera enrollable para llaves Allen.",
+      "cost": 690,
+      "currency": "UYU",
+      "soldCount": 124,
+      "image": "https://images.unsplash.com/photo-1520975933466-7ab36948bdbf?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": 3023,
+      "name": "Delantal de taller",
+      "description": "Delantal con bolsillos, ajuste cruzado.",
+      "cost": 1190,
+      "currency": "UYU",
+      "soldCount": 263,
+      "image": "https://images.unsplash.com/photo-1504809631071-ec3fd87f2f16?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": 3024,
+      "name": "Pad para plancha",
+      "description": "Base resistente al calor para plancha de soldar textil.",
+      "cost": 450,
+      "currency": "UYU",
+      "soldCount": 313,
+      "image": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": 3025,
+      "name": "Set parches decorativos",
+      "description": "Pack de parches termoadhesivos.",
+      "cost": 350,
+      "currency": "UYU",
+      "soldCount": 18,
+      "image": "https://images.unsplash.com/photo-1520975933466-7ab36948bdbf?q=80&w=1200&auto=format&fit=crop"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 201,
+    "name": "Carpintería DIY",
+    "description": "Proyectos con madera: estanterías, mesas, organizadores.",
+    "productCount": 6,
+    "imgSrc": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 202,
+    "name": "Impresión 3D",
+    "description": "STL y kits para organizar, reparar y personalizar.",
+    "productCount": 6,
+    "imgSrc": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 203,
+    "name": "Electrónica DIY",
+    "description": "Kits y módulos para proyectos con microcontroladores.",
+    "productCount": 6,
+    "imgSrc": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 204,
+    "name": "Textil & Costura",
+    "description": "Proyectos de costura fáciles: fundas, mochilas, accesorios.",
+    "productCount": 6,
+    "imgSrc": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 205,
+    "name": "Hogar & Jardín",
+    "description": "Macetas, organizadores, huerta y decoración.",
+    "productCount": 6,
+    "imgSrc": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1200&auto=format&fit=crop"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "score": 5,
+    "description": "Los planos están claros y bien explicados.",
+    "user": "leo",
+    "dateTime": "2025-09-10 04:12:50"
+  },
+  {
+    "score": 3,
+    "description": "Fácil de armar, ideal para principiantes.",
+    "user": "kevin",
+    "dateTime": "2025-09-10 04:12:50"
+  },
+  {
+    "score": 5,
+    "description": "Los planos están claros y bien explicados.",
+    "user": "nicolas",
+    "dateTime": "2025-09-10 04:12:50"
+  },
+  {
+    "score": 3,
+    "description": "Los planos están claros y bien explicados.",
+    "user": "nicolas",
+    "dateTime": "2025-09-10 04:12:50"
+  },
+  {
+    "score": 3,
+    "description": "Fácil de armar, ideal para principiantes.",
+    "user": "emi",
+    "dateTime": "2025-09-10 04:12:50"
+  }
+]
