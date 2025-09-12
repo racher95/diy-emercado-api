@@ -40,12 +40,12 @@
     },
     {
       "id": 3030,
-      "name": "Velas aromáticas kit",
-      "description": "Kit para 4 velas de soja, aromas cítricos.",
-      "cost": 1290,
+      "name": "Kits de carpintería pequeña",
+      "description": "Kits de carpintería pequeña con diferentes herramientas.",
+      "cost": 2990,
       "currency": "UYU",
       "soldCount": 364,
-      "image": "https://images.unsplash.com/photo-1493666438817-866a91353ca9?q=80&w=1200&auto=format&fit=crop"
+      "image": "https://http2.mlstatic.com/D_NQ_NP_618879-MLU46195569556_052021-O.webp"
     },
     {
       "id": 3031,
