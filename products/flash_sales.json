@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3,
+    "name": "tesat 3",
+    "description": "producto test",
+    "originalPrice": 2500,
+    "flashPrice": 2000,
+    "savings": 500,
+    "currency": "UYU",
+    "soldCount": 45,
+    "image": "https://racher95.github.io/diy-emercado-api/images/products/1757702622831-0-test1.jpeg",
+    "category": {
+      "id": 200,
+      "name": "test"
+    },
+    "flashSale": {
+      "active": true,
+      "price": 2000,
+      "startsAt": "2025-09-12T18:44:00.000Z",
+      "endsAt": "2025-09-13T18:44:00.000Z"
+    },
+    "stock": 50,
+    "lowStock": true,
+    "updatedAt": "2025-09-12T18:44:33.218Z"
+  }
+]
