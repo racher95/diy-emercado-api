@@ -10,25 +10,7 @@
     "name": "Carpintería DIY"
   },
   "images": [
-    "https://images.unsplash.com/photo-1504148455329-4c065f9f3972?q=80&w=1200&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1504148455329-4c065f9f3972?q=80&w=1200&auto=format&fit=crop&sat=-25",
-    "https://images.unsplash.com/photo-1504148455329-4c065f9f3972?q=80&w=1200&auto=format&fit=crop&blur=0"
+    "https://m.media-amazon.com/images/I/61Pye7LaNqL.jpg"
   ],
-  "relatedProducts": [
-    {
-      "id": 3002,
-      "name": "Estantería flotante",
-      "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?q=80&w=1200&auto=format&fit=crop"
-    },
-    {
-      "id": 3006,
-      "name": "Soporte monitor de madera",
-      "image": "https://images.unsplash.com/photo-1513530176992-0cf39c4cbed4?q=80&w=1200&auto=format&fit=crop"
-    },
-    {
-      "id": 3003,
-      "name": "Banco de trabajo plegable",
-      "image": "https://images.unsplash.com/photo-1513530176992-0cf39c4cbed4?q=80&w=1200&auto=format&fit=crop"
-    }
-  ]
+  "relatedProducts": []
 }
