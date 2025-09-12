@@ -33,5 +33,12 @@
     "description": "Macetas, organizadores, huerta y decoración.",
     "productCount": 6,
     "imgSrc": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 200,
+    "name": "test",
+    "description": "categoría test",
+    "imgSrc": "https://racher95.github.io/diy-emercado-api/images/cats/1757644474470-0-hola_048.jpg",
+    "productCount": 0
   }
 ]
