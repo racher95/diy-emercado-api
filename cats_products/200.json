@@ -28,6 +28,15 @@
       "currency": "UYU",
       "soldCount": 45,
       "image": "https://racher95.github.io/diy-emercado-api/images/products/1757702624967-1-test2.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "test 5",
+      "description": "producto test",
+      "cost": 2500,
+      "currency": "UYU",
+      "soldCount": 45,
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1757702624967-1-test2.jpeg"
     }
   ]
 }
