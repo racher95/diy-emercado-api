@@ -27,6 +27,31 @@
       "updatedAt": "2025-09-13T22:21:35.600Z",
       "flashPrice": 2000,
       "discount": 20
+    },
+    {
+      "id": 5,
+      "name": "test 5",
+      "description": "producto test",
+      "cost": 2500,
+      "currency": "UYU",
+      "soldCount": 45,
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1757702624967-1-test2.jpeg",
+      "category": {
+        "id": 200,
+        "name": "test"
+      },
+      "featured": true,
+      "stock": 50,
+      "lowStock": true,
+      "flashSale": {
+        "active": true,
+        "price": 2000,
+        "startsAt": "2025-09-13T00:44:00.000Z",
+        "endsAt": "2025-09-15T00:44:00.000Z"
+      },
+      "updatedAt": "2025-09-13T22:22:05.707Z",
+      "flashPrice": 2000,
+      "discount": 20
     }
   ]
 }
