@@ -1,0 +1,26 @@
+{
+  "id": 6,
+  "name": "test 6",
+  "description": "producto test",
+  "cost": 2500,
+  "currency": "UYU",
+  "soldCount": 45,
+  "category": {
+    "id": 200,
+    "name": "test"
+  },
+  "images": [
+    "https://racher95.github.io/diy-emercado-api/images/products/1757733375510-0-hola_048.jpg"
+  ],
+  "relatedProducts": [],
+  "featured": true,
+  "stock": 50,
+  "lowStock": true,
+  "flashSale": {
+    "active": true,
+    "price": 2000,
+    "startsAt": "2025-09-12T21:44:00.000Z",
+    "endsAt": "2025-09-13T21:44:00.000Z"
+  },
+  "updatedAt": "2025-09-13T03:16:56.028Z"
+}
