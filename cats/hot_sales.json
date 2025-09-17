@@ -4,81 +4,6 @@
   "description": "Ofertas por tiempo limitado - ¡No te las pierdas!",
   "products": [
     {
-      "id": 3,
-      "name": "test 3",
-      "description": "producto test",
-      "cost": 2500,
-      "currency": "UYU",
-      "soldCount": 45,
-      "image": "https://racher95.github.io/diy-emercado-api/images/products/1757702622831-0-test1.jpeg",
-      "category": {
-        "id": 200,
-        "name": "test"
-      },
-      "featured": true,
-      "stock": 50,
-      "lowStock": true,
-      "flashSale": {
-        "active": true,
-        "price": 2000,
-        "startsAt": "2025-09-13T00:44:00.000Z",
-        "endsAt": "2025-09-15T00:44:00.000Z"
-      },
-      "updatedAt": "2025-09-13T22:24:01.878Z",
-      "flashPrice": 2000,
-      "discount": 20
-    },
-    {
-      "id": 4,
-      "name": "test 4",
-      "description": "producto test",
-      "cost": 2500,
-      "currency": "UYU",
-      "soldCount": 45,
-      "image": "https://racher95.github.io/diy-emercado-api/images/products/1757737278991-0-test2.jpeg",
-      "category": {
-        "id": 200,
-        "name": "test"
-      },
-      "featured": true,
-      "stock": 50,
-      "lowStock": true,
-      "flashSale": {
-        "active": true,
-        "price": 2000,
-        "startsAt": "2025-09-13T03:44:00.000Z",
-        "endsAt": "2025-09-17T03:44:00.000Z"
-      },
-      "updatedAt": "2025-09-13T22:21:35.600Z",
-      "flashPrice": 2000,
-      "discount": 20
-    },
-    {
-      "id": 5,
-      "name": "test 5",
-      "description": "producto test",
-      "cost": 2500,
-      "currency": "UYU",
-      "soldCount": 45,
-      "image": "https://racher95.github.io/diy-emercado-api/images/products/1757702624967-1-test2.jpeg",
-      "category": {
-        "id": 200,
-        "name": "test"
-      },
-      "featured": true,
-      "stock": 50,
-      "lowStock": true,
-      "flashSale": {
-        "active": true,
-        "price": 2000,
-        "startsAt": "2025-09-13T00:44:00.000Z",
-        "endsAt": "2025-09-15T00:44:00.000Z"
-      },
-      "updatedAt": "2025-09-13T22:22:05.707Z",
-      "flashPrice": 2000,
-      "discount": 20
-    },
-    {
       "id": 6,
       "name": "test 6",
       "description": "producto test",
@@ -96,10 +21,10 @@
       "flashSale": {
         "active": true,
         "price": 2000,
-        "startsAt": "2025-09-13T00:44:00.000Z",
-        "endsAt": "2025-09-15T00:44:00.000Z"
+        "startsAt": "2025-09-17T03:44:00.000Z",
+        "endsAt": "2025-09-20T03:44:00.000Z"
       },
-      "updatedAt": "2025-09-13T22:22:38.614Z",
+      "updatedAt": "2025-09-17T14:11:47.352Z",
       "flashPrice": 2000,
       "discount": 20
     }
