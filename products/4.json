@@ -12,15 +12,27 @@
   "images": [
     "https://racher95.github.io/diy-emercado-api/images/products/1757737278991-0-test2.jpeg"
   ],
-  "relatedProducts": [],
+  "relatedProducts": [
+    {
+      "id": 3,
+      "name": "test 3",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1757702622831-0-test1.jpeg",
+      "cost": 2500,
+      "currency": "UYU",
+      "category": "test",
+      "featured": true,
+      "stock": 50,
+      "addedAt": "2025-09-17T15:19:34.956Z"
+    }
+  ],
   "featured": true,
   "stock": 50,
   "lowStock": true,
   "flashSale": {
     "active": true,
     "price": 2000,
-    "startsAt": "2025-09-13T03:44:00.000Z",
-    "endsAt": "2025-09-17T03:44:00.000Z"
+    "startsAt": "2025-09-13T06:44:00.000Z",
+    "endsAt": "2025-09-30T06:44:00.000Z"
   },
-  "updatedAt": "2025-09-13T22:21:35.600Z"
+  "updatedAt": "2025-09-17T15:19:33.912Z"
 }
