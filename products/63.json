@@ -23,7 +23,7 @@
       "category": "Deportes & Fitness",
       "featured": false,
       "stock": 50,
-      "addedAt": "2025-09-19T13:34:13.721Z"
+      "addedAt": "2025-09-19T13:34:24.402Z"
     },
     {
       "id": 62,
@@ -34,7 +34,7 @@
       "category": "Deportes & Fitness",
       "featured": true,
       "stock": 50,
-      "addedAt": "2025-09-19T13:34:13.840Z"
+      "addedAt": "2025-09-19T13:34:24.541Z"
     }
   ],
   "featured": false,
@@ -46,5 +46,5 @@
     "startsAt": null,
     "endsAt": null
   },
-  "updatedAt": "2025-09-19T13:34:13.594Z"
+  "updatedAt": "2025-09-19T13:34:24.397Z"
 }
