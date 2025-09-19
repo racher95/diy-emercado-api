@@ -10,6 +10,15 @@
       "currency": "UYU",
       "soldCount": 30,
       "image": "https://racher95.github.io/diy-emercado-api/images/products/1758291962518-0-ActivistSkincare-TrialandTravelKit_1946x.webp"
+    },
+    {
+      "id": 72,
+      "name": "Kit Capilar Olaplex",
+      "description": "Descubre el poder de Olaplex, el tratamiento revolucionario que transforma tu cabello desde el interior. Este kit completo está diseñado para reparar el daño, fortalecer la fibra capilar y proteger tu melena de los efectos agresivos de tintes, planchas y procesos químicos.",
+      "cost": 5000,
+      "currency": "UYU",
+      "soldCount": 30,
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758293210302-0-AD6C4C8F-B72A-47E0-ADBB-887FF96AD950.webp"
     }
   ]
 }
