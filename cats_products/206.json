@@ -10,6 +10,15 @@
       "currency": "UYU",
       "soldCount": 10,
       "image": "https://racher95.github.io/diy-emercado-api/images/products/1758285753641-0-yoga.webp"
+    },
+    {
+      "id": 62,
+      "name": "Kit Gonex Portable Home Gym",
+      "description": "Lleva tu entrenamiento al siguiente nivel con el kit portátil de gimnasio en casa Gonex. Diseñado para ofrecer una experiencia completa y versátil, este kit es perfecto para quienes buscan mantenerse en forma sin salir de casa.",
+      "cost": 3000,
+      "currency": "UYU",
+      "soldCount": 25,
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758286502306-0-Gonex-Portable-Home-Gym.webp"
     }
   ]
 }
