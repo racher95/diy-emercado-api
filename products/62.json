@@ -24,17 +24,17 @@
       "category": "Deportes & Fitness",
       "featured": false,
       "stock": 50,
-      "addedAt": "2025-09-19T12:56:29.269Z"
+      "addedAt": "2025-09-19T13:36:40.403Z"
     }
   ],
-  "featured": true,
+  "featured": false,
   "stock": 50,
   "lowStock": false,
   "flashSale": {
-    "active": true,
-    "price": 2700,
-    "startsAt": "2025-09-19T12:55:00.000Z",
-    "endsAt": "2025-12-24T12:55:00.000Z"
+    "active": false,
+    "price": null,
+    "startsAt": null,
+    "endsAt": null
   },
-  "updatedAt": "2025-09-19T12:56:23.026Z"
+  "updatedAt": "2025-09-19T13:36:40.817Z"
 }
