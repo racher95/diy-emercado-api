@@ -1,5 +1,15 @@
 {
   "catID": 207,
   "catName": "Belleza y Cuidado Personal",
-  "products": []
+  "products": [
+    {
+      "id": 71,
+      "name": "Activist Skincare Trial",
+      "description": "Descubrí el cuidado facial consciente y efectivo con este exclusivo kit de prueba de Activist Skincare. Diseñado para que experimentes una rutina completa durante 2 a 3 semanas, este set incluye 7 mini productos de alta eficacia, ideales para todo tipo de piel.",
+      "cost": 1900,
+      "currency": "UYU",
+      "soldCount": 20,
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758291962518-0-ActivistSkincare-TrialandTravelKit_1946x.webp"
+    }
+  ]
 }
