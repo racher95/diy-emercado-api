@@ -1,0 +1,50 @@
+{
+  "id": 63,
+  "name": "Kit Pilates Athletic",
+  "description": "Este completo set de Pilates está diseñado para ofrecerte una experiencia integral de entrenamiento en casa. Cada componente ha sido seleccionado para ayudarte a mejorar tu flexibilidad, fuerza y equilibrio.",
+  "cost": 1200,
+  "currency": "UYU",
+  "soldCount": 15,
+  "category": {
+    "id": 206,
+    "name": "Deportes & Fitness"
+  },
+  "images": [
+    "https://racher95.github.io/diy-emercado-api/images/products/1758288810874-0-Pelota-Pilates-Athletic-65Cm-Anillo-Pilates-Banda-Elastica.jpg",
+    "https://racher95.github.io/diy-emercado-api/images/products/1758288819595-0-Pelota-Pilates-Athletic-65Cm-Anillo-Pilates-Banda-Elastica-3.jpg"
+  ],
+  "relatedProducts": [
+    {
+      "id": 61,
+      "name": "Kit de Yoga",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758285753641-0-yoga.webp",
+      "cost": 2000,
+      "currency": "UYU",
+      "category": "Deportes & Fitness",
+      "featured": false,
+      "stock": 50,
+      "addedAt": "2025-09-19T13:34:13.721Z"
+    },
+    {
+      "id": 62,
+      "name": "Kit Gonex Portable Home Gym",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758286502306-0-Gonex-Portable-Home-Gym.webp",
+      "cost": 3000,
+      "currency": "UYU",
+      "category": "Deportes & Fitness",
+      "featured": true,
+      "stock": 50,
+      "addedAt": "2025-09-19T13:34:13.840Z"
+    }
+  ],
+  "featured": false,
+  "stock": 50,
+  "lowStock": false,
+  "flashSale": {
+    "active": false,
+    "price": null,
+    "startsAt": null,
+    "endsAt": null
+  },
+  "updatedAt": "2025-09-19T13:34:13.594Z"
+}
