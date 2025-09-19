@@ -1,0 +1,50 @@
+{
+  "id": 73,
+  "name": "Set Natural Beauty Pomegranate Lotus",
+  "description": "El Set Natural Beauty Pomegranate Lotus es un kit de cuidado corporal que combina productos aromáticos con ingredientes hidratantes para un ritual de belleza inspirado en la naturaleza.\n\nForma parte de la línea Natural Beauty Body Care, cuya filosofía es ofrecer fórmulas lujosas, eficaces, inspiradas en ingredientes botánicos, para lograr una piel suave, saludable y con aroma delicioso.",
+  "cost": 1600,
+  "currency": "UYU",
+  "soldCount": 40,
+  "category": {
+    "id": 207,
+    "name": "Belleza y Cuidado Personal"
+  },
+  "images": [
+    "https://racher95.github.io/diy-emercado-api/images/products/1758295383560-0-189091-1200-1600.webp",
+    "https://racher95.github.io/diy-emercado-api/images/products/1758295401578-0-189092-1200-1600.webp"
+  ],
+  "relatedProducts": [
+    {
+      "id": 71,
+      "name": "Activist Skincare Trial",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758291962518-0-ActivistSkincare-TrialandTravelKit_1946x.webp",
+      "cost": 1900,
+      "currency": "UYU",
+      "category": "Belleza y Cuidado Personal",
+      "featured": true,
+      "stock": 50,
+      "addedAt": "2025-09-19T15:24:34.253Z"
+    },
+    {
+      "id": 72,
+      "name": "Kit Capilar Olaplex",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758293210302-0-AD6C4C8F-B72A-47E0-ADBB-887FF96AD950.webp",
+      "cost": 5000,
+      "currency": "UYU",
+      "category": "Belleza y Cuidado Personal",
+      "featured": false,
+      "stock": 50,
+      "addedAt": "2025-09-19T15:24:34.379Z"
+    }
+  ],
+  "featured": false,
+  "stock": 50,
+  "lowStock": false,
+  "flashSale": {
+    "active": false,
+    "price": null,
+    "startsAt": null,
+    "endsAt": null
+  },
+  "updatedAt": "2025-09-19T15:24:33.855Z"
+}
