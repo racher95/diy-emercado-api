@@ -3,15 +3,6 @@
   "catName": "Hogar & Jardín",
   "products": [
     {
-      "id": 3027,
-      "name": "Jardinera de balcón",
-      "description": "Jardinera de plastico con anclaje regulable.",
-      "cost": 1990,
-      "currency": "UYU",
-      "soldCount": 106,
-      "image": "https://f.fcdn.app/imgs/a48a6f/www.jysk.uy/jyskuy/1162/original/catalogo/6425031_03/1500-1500/jardinera-balcon-ugle-23x37xa22-negro-jardinera-balcon-ugle-23x37xa22-negro.jpg"
-    },
-    {
       "id": 3028,
       "name": "Organizador de llaves mural",
       "description": "Perchero/organizador de entrada.",
