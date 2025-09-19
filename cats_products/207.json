@@ -19,6 +19,15 @@
       "currency": "UYU",
       "soldCount": 30,
       "image": "https://racher95.github.io/diy-emercado-api/images/products/1758293210302-0-AD6C4C8F-B72A-47E0-ADBB-887FF96AD950.webp"
+    },
+    {
+      "id": 73,
+      "name": "Victoria's Secret - Body Lotion",
+      "description": "Mima tu piel todos los días con esta exquisita body lotion, formulada para proporcionar hidratación profunda, suavidad duradera y una sensación fresca y ligera al aplicarla. Ideal para el uso diario, esta loción nutre la piel seca o deshidratada, dejándola visiblemente más tersa, saludable y radiante.",
+      "cost": 1200,
+      "currency": "UYU",
+      "soldCount": 16,
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758294073066-0-images.jpeg"
     }
   ]
 }
