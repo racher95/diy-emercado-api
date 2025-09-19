@@ -1,0 +1,39 @@
+{
+  "id": 72,
+  "name": "Kit Capilar Olaplex",
+  "description": "Descubre el poder de Olaplex, el tratamiento revolucionario que transforma tu cabello desde el interior. Este kit completo está diseñado para reparar el daño, fortalecer la fibra capilar y proteger tu melena de los efectos agresivos de tintes, planchas y procesos químicos.",
+  "cost": 5000,
+  "currency": "UYU",
+  "soldCount": 30,
+  "category": {
+    "id": 207,
+    "name": "Belleza y Cuidado Personal"
+  },
+  "images": [
+    "https://racher95.github.io/diy-emercado-api/images/products/1758293210302-0-AD6C4C8F-B72A-47E0-ADBB-887FF96AD950.webp",
+    "https://racher95.github.io/diy-emercado-api/images/products/1758293226796-0-Hair-care-brand-Olaplex.webp"
+  ],
+  "relatedProducts": [
+    {
+      "id": 71,
+      "name": "Activist Skincare Trial",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758291962518-0-ActivistSkincare-TrialandTravelKit_1946x.webp",
+      "cost": 1900,
+      "currency": "UYU",
+      "category": "Belleza y Cuidado Personal",
+      "featured": true,
+      "stock": 50,
+      "addedAt": "2025-09-19T14:49:13.719Z"
+    }
+  ],
+  "featured": false,
+  "stock": 50,
+  "lowStock": false,
+  "flashSale": {
+    "active": true,
+    "price": 4000,
+    "startsAt": "2025-09-19T14:48:00.000Z",
+    "endsAt": "2026-01-08T14:48:00.000Z"
+  },
+  "updatedAt": "2025-09-19T14:49:13.640Z"
+}
