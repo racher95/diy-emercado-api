@@ -10,7 +10,8 @@
     "name": "Textil & Costura"
   },
   "images": [
-    "https://images.unsplash.com/photo-1520975933466-7ab36948bdbf?q=80&w=1200&auto=format&fit=crop"
+    "https://images.unsplash.com/photo-1520975933466-7ab36948bdbf?q=80&w=1200&auto=format&fit=crop",
+    "https://racher95.github.io/diy-emercado-api/images/products/1758291420267-0-Parches-Bordados-Anime-Valkynea-50446845.webp"
   ],
   "relatedProducts": [
     {
@@ -22,7 +23,7 @@
       "category": "Textil & Costura",
       "featured": false,
       "stock": 0,
-      "addedAt": "2025-09-19T14:02:41.466Z"
+      "addedAt": "2025-09-19T14:17:11.717Z"
     },
     {
       "id": 3022,
@@ -33,7 +34,7 @@
       "category": "Textil & Costura",
       "featured": false,
       "stock": 0,
-      "addedAt": "2025-09-19T14:02:41.608Z"
+      "addedAt": "2025-09-19T14:17:11.904Z"
     },
     {
       "id": 3023,
@@ -44,7 +45,7 @@
       "category": "Textil & Costura",
       "featured": false,
       "stock": 0,
-      "addedAt": "2025-09-19T14:02:41.760Z"
+      "addedAt": "2025-09-19T14:17:12.026Z"
     }
   ],
   "featured": false,
@@ -56,5 +57,5 @@
     "startsAt": null,
     "endsAt": null
   },
-  "updatedAt": "2025-09-19T14:02:41.774Z"
+  "updatedAt": "2025-09-19T14:17:11.913Z"
 }
