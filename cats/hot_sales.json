@@ -46,10 +46,10 @@
       "flashSale": {
         "active": true,
         "price": 2000,
-        "startsAt": "2025-09-13T06:44:00.000Z",
-        "endsAt": "2025-09-30T06:44:00.000Z"
+        "startsAt": "2025-09-13T09:44:00.000Z",
+        "endsAt": "2025-09-30T09:44:00.000Z"
       },
-      "updatedAt": "2025-09-17T15:19:33.912Z",
+      "updatedAt": "2025-09-19T11:56:13.139Z",
       "flashPrice": 2000,
       "discount": 20
     },
