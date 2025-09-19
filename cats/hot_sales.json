@@ -2,5 +2,31 @@
   "catName": "Hot Sales!",
   "imgSrc": "images/cats/hot_sales.jpg",
   "description": "Ofertas por tiempo limitado - ¡No te las pierdas!",
-  "products": []
+  "products": [
+    {
+      "id": 72,
+      "name": "Kit Capilar Olaplex",
+      "description": "Descubre el poder de Olaplex, el tratamiento revolucionario que transforma tu cabello desde el interior. Este kit completo está diseñado para reparar el daño, fortalecer la fibra capilar y proteger tu melena de los efectos agresivos de tintes, planchas y procesos químicos.",
+      "cost": 5000,
+      "currency": "UYU",
+      "soldCount": 30,
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758293210302-0-AD6C4C8F-B72A-47E0-ADBB-887FF96AD950.webp",
+      "category": {
+        "id": 207,
+        "name": "Belleza y Cuidado Personal"
+      },
+      "featured": false,
+      "stock": 50,
+      "lowStock": false,
+      "flashSale": {
+        "active": true,
+        "price": 4000,
+        "startsAt": "2025-09-19T14:48:00.000Z",
+        "endsAt": "2026-01-08T14:48:00.000Z"
+      },
+      "updatedAt": "2025-09-19T14:49:13.640Z",
+      "flashPrice": 4000,
+      "discount": 20
+    }
+  ]
 }
