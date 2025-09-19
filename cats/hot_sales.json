@@ -77,6 +77,31 @@
       "updatedAt": "2025-09-17T14:11:47.352Z",
       "flashPrice": 2000,
       "discount": 20
+    },
+    {
+      "id": 62,
+      "name": "Kit Gonex Portable Home Gym",
+      "description": "Lleva tu entrenamiento al siguiente nivel con el kit portátil de gimnasio en casa Gonex. Diseñado para ofrecer una experiencia completa y versátil, este kit es perfecto para quienes buscan mantenerse en forma sin salir de casa.",
+      "cost": 3000,
+      "currency": "UYU",
+      "soldCount": 25,
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758286502306-0-Gonex-Portable-Home-Gym.webp",
+      "category": {
+        "id": 206,
+        "name": "Deportes & Fitness"
+      },
+      "featured": true,
+      "stock": 50,
+      "lowStock": false,
+      "flashSale": {
+        "active": true,
+        "price": 2700,
+        "startsAt": "2025-09-19T12:55:00.000Z",
+        "endsAt": "2025-12-24T12:55:00.000Z"
+      },
+      "updatedAt": "2025-09-19T12:56:18.824Z",
+      "flashPrice": 2700,
+      "discount": 10
     }
   ]
 }
