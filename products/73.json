@@ -23,7 +23,7 @@
       "category": "Belleza y Cuidado Personal",
       "featured": true,
       "stock": 50,
-      "addedAt": "2025-09-19T15:40:47.423Z"
+      "addedAt": "2025-09-19T15:40:48.234Z"
     },
     {
       "id": 72,
@@ -34,7 +34,7 @@
       "category": "Belleza y Cuidado Personal",
       "featured": false,
       "stock": 50,
-      "addedAt": "2025-09-19T15:40:47.556Z"
+      "addedAt": "2025-09-19T15:40:48.393Z"
     }
   ],
   "featured": false,
@@ -46,5 +46,5 @@
     "startsAt": null,
     "endsAt": null
   },
-  "updatedAt": "2025-09-19T15:40:41.778Z"
+  "updatedAt": "2025-09-19T15:40:43.418Z"
 }
