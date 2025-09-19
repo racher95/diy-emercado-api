@@ -10,8 +10,8 @@
     "name": "Belleza y Cuidado Personal"
   },
   "images": [
-    "https://racher95.github.io/diy-emercado-api/images/products/1758295383560-0-189091-1200-1600.webp",
-    "https://racher95.github.io/diy-emercado-api/images/products/1758295401578-0-189092-1200-1600.webp"
+    "https://racher95.github.io/diy-emercado-api/images/products/1758296396887-0-vs2.PNG",
+    "https://racher95.github.io/diy-emercado-api/images/products/1758296430914-0-vs2.PNG"
   ],
   "relatedProducts": [
     {
@@ -23,7 +23,7 @@
       "category": "Belleza y Cuidado Personal",
       "featured": true,
       "stock": 50,
-      "addedAt": "2025-09-19T15:30:00.939Z"
+      "addedAt": "2025-09-19T15:40:36.527Z"
     },
     {
       "id": 72,
@@ -34,7 +34,7 @@
       "category": "Belleza y Cuidado Personal",
       "featured": false,
       "stock": 50,
-      "addedAt": "2025-09-19T15:30:01.056Z"
+      "addedAt": "2025-09-19T15:40:36.662Z"
     }
   ],
   "featured": false,
@@ -46,5 +46,5 @@
     "startsAt": null,
     "endsAt": null
   },
-  "updatedAt": "2025-09-19T15:30:01.027Z"
+  "updatedAt": "2025-09-19T15:40:37.080Z"
 }
