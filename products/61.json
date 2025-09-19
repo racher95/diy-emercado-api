@@ -1,0 +1,27 @@
+{
+  "id": 61,
+  "name": "Kit de Yoga",
+  "description": "Llevá tu experiencia de yoga al siguiente nivel con este kit de yoga 7 en 1. Diseñado tanto para quienes recién comienzan como para practicantes avanzados, este set es perfecto para usar en casa, en el gimnasio o en tu estudio.",
+  "cost": 2000,
+  "currency": "UYU",
+  "soldCount": 10,
+  "category": {
+    "id": 206,
+    "name": "Deportes & Fitness"
+  },
+  "images": [
+    "https://racher95.github.io/diy-emercado-api/images/products/1758285753641-0-yoga.webp",
+    "https://racher95.github.io/diy-emercado-api/images/products/1758285760546-0-yoga 2.webp"
+  ],
+  "relatedProducts": [],
+  "featured": false,
+  "stock": 50,
+  "lowStock": false,
+  "flashSale": {
+    "active": false,
+    "price": null,
+    "startsAt": null,
+    "endsAt": null
+  },
+  "updatedAt": "2025-09-19T12:43:01.694Z"
+}
