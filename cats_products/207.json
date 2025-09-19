@@ -19,6 +19,15 @@
       "currency": "UYU",
       "soldCount": 30,
       "image": "https://racher95.github.io/diy-emercado-api/images/products/1758293210302-0-AD6C4C8F-B72A-47E0-ADBB-887FF96AD950.webp"
+    },
+    {
+      "id": 73,
+      "name": "Set Natural Beauty Pomegranate Lotus",
+      "description": "El Set Natural Beauty Pomegranate Lotus es un kit de cuidado corporal que combina productos aromáticos con ingredientes hidratantes para un ritual de belleza inspirado en la naturaleza.\n\nForma parte de la línea Natural Beauty Body Care, cuya filosofía es ofrecer fórmulas lujosas, eficaces, inspiradas en ingredientes botánicos, para lograr una piel suave, saludable y con aroma delicioso.",
+      "cost": 1600,
+      "currency": "UYU",
+      "soldCount": 40,
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758295383560-0-189091-1200-1600.webp"
     }
   ]
 }
