@@ -19,6 +19,15 @@
       "currency": "UYU",
       "soldCount": 25,
       "image": "https://racher95.github.io/diy-emercado-api/images/products/1758286502306-0-Gonex-Portable-Home-Gym.webp"
+    },
+    {
+      "id": 63,
+      "name": "Kit Pilates Athletic",
+      "description": "Este completo set de Pilates está diseñado para ofrecerte una experiencia integral de entrenamiento en casa. Cada componente ha sido seleccionado para ayudarte a mejorar tu flexibilidad, fuerza y equilibrio.",
+      "cost": 1200,
+      "currency": "UYU",
+      "soldCount": 15,
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758288810874-0-Pelota-Pilates-Athletic-65Cm-Anillo-Pilates-Banda-Elastica.jpg"
     }
   ]
 }
