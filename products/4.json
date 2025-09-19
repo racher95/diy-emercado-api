@@ -22,7 +22,29 @@
       "category": "test",
       "featured": true,
       "stock": 50,
-      "addedAt": "2025-09-17T15:19:34.956Z"
+      "addedAt": "2025-09-19T11:56:17.448Z"
+    },
+    {
+      "id": 6,
+      "name": "test 6",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1757733375510-0-hola_048.jpg",
+      "cost": 2500,
+      "currency": "UYU",
+      "category": "test",
+      "featured": true,
+      "stock": 50,
+      "addedAt": "2025-09-19T11:56:17.573Z"
+    },
+    {
+      "id": 3003,
+      "name": "Banco de trabajo plegable",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1757681527949-0-tavolo-lavoro-pieghevole-work-table.jpg",
+      "cost": 18990,
+      "currency": "UYU",
+      "category": "Carpintería DIY",
+      "featured": false,
+      "stock": 0,
+      "addedAt": "2025-09-19T11:56:17.738Z"
     }
   ],
   "featured": true,
@@ -31,8 +53,8 @@
   "flashSale": {
     "active": true,
     "price": 2000,
-    "startsAt": "2025-09-13T06:44:00.000Z",
-    "endsAt": "2025-09-30T06:44:00.000Z"
+    "startsAt": "2025-09-13T09:44:00.000Z",
+    "endsAt": "2025-09-30T09:44:00.000Z"
   },
-  "updatedAt": "2025-09-17T15:19:33.912Z"
+  "updatedAt": "2025-09-19T11:56:13.139Z"
 }
