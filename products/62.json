@@ -1,0 +1,40 @@
+{
+  "id": 62,
+  "name": "Kit Gonex Portable Home Gym",
+  "description": "Lleva tu entrenamiento al siguiente nivel con el kit portátil de gimnasio en casa Gonex. Diseñado para ofrecer una experiencia completa y versátil, este kit es perfecto para quienes buscan mantenerse en forma sin salir de casa.",
+  "cost": 3000,
+  "currency": "UYU",
+  "soldCount": 25,
+  "category": {
+    "id": 206,
+    "name": "Deportes & Fitness"
+  },
+  "images": [
+    "https://racher95.github.io/diy-emercado-api/images/products/1758286502306-0-Gonex-Portable-Home-Gym.webp",
+    "https://racher95.github.io/diy-emercado-api/images/products/1758286513861-0-Keep-Fitness-Everywhere.jpg",
+    "https://racher95.github.io/diy-emercado-api/images/products/1758286529209-0-Workout-System.jpg"
+  ],
+  "relatedProducts": [
+    {
+      "id": 61,
+      "name": "Kit de Yoga",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758285753641-0-yoga.webp",
+      "cost": 2000,
+      "currency": "UYU",
+      "category": "Deportes & Fitness",
+      "featured": false,
+      "stock": 50,
+      "addedAt": "2025-09-19T12:56:18.890Z"
+    }
+  ],
+  "featured": true,
+  "stock": 50,
+  "lowStock": false,
+  "flashSale": {
+    "active": true,
+    "price": 2700,
+    "startsAt": "2025-09-19T12:55:00.000Z",
+    "endsAt": "2025-12-24T12:55:00.000Z"
+  },
+  "updatedAt": "2025-09-19T12:56:18.824Z"
+}
