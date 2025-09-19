@@ -1,0 +1,50 @@
+{
+  "id": 73,
+  "name": "Victoria's Secret - Body Lotion",
+  "description": "Mima tu piel todos los días con esta exquisita body lotion, formulada para proporcionar hidratación profunda, suavidad duradera y una sensación fresca y ligera al aplicarla. Ideal para el uso diario, esta loción nutre la piel seca o deshidratada, dejándola visiblemente más tersa, saludable y radiante.",
+  "cost": 1200,
+  "currency": "UYU",
+  "soldCount": 16,
+  "category": {
+    "id": 207,
+    "name": "Belleza y Cuidado Personal"
+  },
+  "images": [
+    "https://racher95.github.io/diy-emercado-api/images/products/1758294073066-0-images.jpeg",
+    "https://racher95.github.io/diy-emercado-api/images/products/1758294088965-0-victorias-secret-pomegranate-lotus-fragrance-body-lotion-236ml-perfume-philippines-best-price.webp"
+  ],
+  "relatedProducts": [
+    {
+      "id": 71,
+      "name": "Activist Skincare Trial",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758291962518-0-ActivistSkincare-TrialandTravelKit_1946x.webp",
+      "cost": 1900,
+      "currency": "UYU",
+      "category": "Belleza y Cuidado Personal",
+      "featured": true,
+      "stock": 50,
+      "addedAt": "2025-09-19T15:03:56.303Z"
+    },
+    {
+      "id": 72,
+      "name": "Kit Capilar Olaplex",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758293210302-0-AD6C4C8F-B72A-47E0-ADBB-887FF96AD950.webp",
+      "cost": 5000,
+      "currency": "UYU",
+      "category": "Belleza y Cuidado Personal",
+      "featured": false,
+      "stock": 50,
+      "addedAt": "2025-09-19T15:03:56.442Z"
+    }
+  ],
+  "featured": false,
+  "stock": 50,
+  "lowStock": false,
+  "flashSale": {
+    "active": false,
+    "price": null,
+    "startsAt": null,
+    "endsAt": null
+  },
+  "updatedAt": "2025-09-19T15:03:55.913Z"
+}
