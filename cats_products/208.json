@@ -10,6 +10,15 @@
       "currency": "UYU",
       "soldCount": 40,
       "image": "https://racher95.github.io/diy-emercado-api/images/products/1758387861091-0-D_NQ_NP_2X_720593-MLA84839428085_052025-F.webp"
+    },
+    {
+      "id": 82,
+      "name": "Set Juego De Herramientas Daewoo",
+      "description": "Si estás buscando un set de herramientas completo y variado, el Set de Herramientas DAEWOO DAHTS100 es la opción ideal para ti. Con sus 100 piezas, este set te brindará todas las herramientas necesarias para cualquier proyecto de bricolaje o reparación que tengas en mente.",
+      "cost": 1000,
+      "currency": "UYU",
+      "soldCount": 16,
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758388255258-0-D_NQ_NP_2X_673187-MLA84852123405_052025-F.webp"
     }
   ]
 }
