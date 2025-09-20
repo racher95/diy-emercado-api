@@ -1,0 +1,49 @@
+{
+  "id": 83,
+  "name": "Set 6 Destornilladores Ingco",
+  "description": "Descubre el juego de destornilladores INGCO HKSD0628, una herramienta esencial para cualquier aficionado al bricolaje o profesional. Este conjunto incluye 6 piezas, cada una diseñada con un mango ergonómico de plástico que proporciona un agarre cómodo y seguro, facilitando su uso durante largas jornadas de trabajo. Fabricados en material CR-V, estos destornilladores garantizan durabilidad y resistencia ante el desgaste.",
+  "cost": 600,
+  "currency": "UYU",
+  "soldCount": 21,
+  "category": {
+    "id": 208,
+    "name": "Herramientas"
+  },
+  "images": [
+    "https://racher95.github.io/diy-emercado-api/images/products/1758388935923-0-D_NQ_NP_2X_633455-MLA84832710911_052025-F.webp"
+  ],
+  "relatedProducts": [
+    {
+      "id": 81,
+      "name": "Taladro De Impacto Inalámbrico Nappo",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758387861091-0-D_NQ_NP_2X_720593-MLA84839428085_052025-F.webp",
+      "cost": 1700,
+      "currency": "UYU",
+      "category": "Herramientas",
+      "featured": true,
+      "stock": 50,
+      "addedAt": "2025-09-20T17:23:45.773Z"
+    },
+    {
+      "id": 82,
+      "name": "Set Juego De Herramientas Daewoo",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758388255258-0-D_NQ_NP_2X_673187-MLA84852123405_052025-F.webp",
+      "cost": 1000,
+      "currency": "UYU",
+      "category": "Herramientas",
+      "featured": false,
+      "stock": 50,
+      "addedAt": "2025-09-20T17:23:45.950Z"
+    }
+  ],
+  "featured": false,
+  "stock": 50,
+  "lowStock": false,
+  "flashSale": {
+    "active": true,
+    "price": 500,
+    "startsAt": "2025-09-20T17:23:00.000Z",
+    "endsAt": "2025-12-31T17:23:00.000Z"
+  },
+  "updatedAt": "2025-09-20T17:23:44.853Z"
+}
