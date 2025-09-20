@@ -25,6 +25,29 @@
         "endsAt": null
       },
       "updatedAt": "2025-09-19T14:37:00.869Z"
+    },
+    {
+      "id": 81,
+      "name": "Taladro De Impacto Inalámbrico Nappo",
+      "description": "Este taladro de impacto inalámbrico NAPPO de 12V con batería recargable de 1500mAh y 2 velocidades es perfecto para realizar cualquier tarea de bricolaje en tu hogar.",
+      "cost": 1700,
+      "currency": "UYU",
+      "soldCount": 40,
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758387861091-0-D_NQ_NP_2X_720593-MLA84839428085_052025-F.webp",
+      "category": {
+        "id": 208,
+        "name": "Herramientas"
+      },
+      "featured": true,
+      "stock": 50,
+      "lowStock": false,
+      "flashSale": {
+        "active": false,
+        "price": null,
+        "startsAt": null,
+        "endsAt": null
+      },
+      "updatedAt": "2025-09-20T17:05:04.985Z"
     }
   ]
 }
