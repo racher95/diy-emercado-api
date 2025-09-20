@@ -19,6 +19,15 @@
       "currency": "UYU",
       "soldCount": 16,
       "image": "https://racher95.github.io/diy-emercado-api/images/products/1758388255258-0-D_NQ_NP_2X_673187-MLA84852123405_052025-F.webp"
+    },
+    {
+      "id": 83,
+      "name": "Set 6 Destornilladores Ingco",
+      "description": "Descubre el juego de destornilladores INGCO HKSD0628, una herramienta esencial para cualquier aficionado al bricolaje o profesional. Este conjunto incluye 6 piezas, cada una diseñada con un mango ergonómico de plástico que proporciona un agarre cómodo y seguro, facilitando su uso durante largas jornadas de trabajo. Fabricados en material CR-V, estos destornilladores garantizan durabilidad y resistencia ante el desgaste.",
+      "cost": 600,
+      "currency": "UYU",
+      "soldCount": 21,
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758388935923-0-D_NQ_NP_2X_633455-MLA84832710911_052025-F.webp"
     }
   ]
 }
