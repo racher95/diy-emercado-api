@@ -19,6 +19,15 @@
       "currency": "UYU",
       "soldCount": 8,
       "image": "https://racher95.github.io/diy-emercado-api/images/products/1758495817530-0-D_NQ_NP_2X_677695-MLA82154291989_012025-F.webp"
+    },
+    {
+      "id": 103,
+      "name": "Kit Caja De Herramientas 17 Partes",
+      "description": "Descubre la Juguete Caja De Herramientas de 17 Pcs de la marca PolarB, un fascinante set diseñado para estimular la creatividad y la imaginación de los más pequeños. Con unas medidas de 18x11x12 cm, este juguete es perfecto para manos pequeñas. Recomendado para niños a partir de 3 años, este kit de fábrica es ideal para desarrollar habilidades motoras y de resolución de problemas",
+      "cost": 880,
+      "currency": "UYU",
+      "soldCount": 29,
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758496203308-0-D_NQ_NP_2X_731680-MLA92054602561_092025-F.webp"
     }
   ]
 }
