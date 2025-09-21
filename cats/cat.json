@@ -1,12 +1,5 @@
 [
   {
-    "id": 201,
-    "name": "Carpintería DIY",
-    "description": "Proyectos con madera: estanterías, mesas, organizadores.",
-    "productCount": 6,
-    "imgSrc": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?q=80&w=1200&auto=format&fit=crop"
-  },
-  {
     "id": 202,
     "name": "Impresión 3D",
     "description": "STL y kits para organizar, reparar y personalizar.",
