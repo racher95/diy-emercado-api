@@ -1,12 +1,5 @@
 [
   {
-    "id": 204,
-    "name": "Textil & Costura",
-    "description": "Proyectos de costura fáciles: fundas, mochilas, accesorios.",
-    "productCount": 6,
-    "imgSrc": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?q=80&w=1200&auto=format&fit=crop"
-  },
-  {
     "id": 205,
     "name": "Hogar & Jardín",
     "description": "Macetas, organizadores, huerta y decoración.",
