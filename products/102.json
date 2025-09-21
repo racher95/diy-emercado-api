@@ -1,0 +1,40 @@
+{
+  "id": 102,
+  "name": "Kit de construcción Lego Jurassic World",
+  "description": "Inspira a los niños de 3 años en adelante a explorar la pasión por las aventuras relacionadas con los dinosaurios con este kit de construcción de modelos de dinosaurios Little Eatie: T. rex que incluye divertidas opciones de juego y exhibición.",
+  "cost": 3000,
+  "currency": "UYU",
+  "soldCount": 8,
+  "category": {
+    "id": 210,
+    "name": "Juguetes"
+  },
+  "images": [
+    "https://racher95.github.io/diy-emercado-api/images/products/1758495817530-0-D_NQ_NP_2X_677695-MLA82154291989_012025-F.webp",
+    "https://racher95.github.io/diy-emercado-api/images/products/1758495830724-0-D_NQ_NP_2X_814950-MLA81218171614_122024-F.webp",
+    "https://racher95.github.io/diy-emercado-api/images/products/1758495840291-0-D_NQ_NP_2X_797963-MLA81874147218_012025-F.webp"
+  ],
+  "relatedProducts": [
+    {
+      "id": 101,
+      "name": "Set Para Crear Pulseras",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758495432199-0-D_NQ_NP_2X_967917-MLU71371144527_082023-F.webp",
+      "cost": 790,
+      "currency": "UYU",
+      "category": "Juguetes",
+      "featured": true,
+      "stock": 50,
+      "addedAt": "2025-09-21T23:05:57.075Z"
+    }
+  ],
+  "featured": false,
+  "stock": 50,
+  "lowStock": false,
+  "flashSale": {
+    "active": false,
+    "price": null,
+    "startsAt": null,
+    "endsAt": null
+  },
+  "updatedAt": "2025-09-21T23:05:56.780Z"
+}
