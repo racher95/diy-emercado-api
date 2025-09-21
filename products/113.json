@@ -1,0 +1,39 @@
+{
+  "id": 113,
+  "name": "uego De Ollas Cocina Batería Tramontina 56 Piezas Cubiertos",
+  "description": "¿Te estas por mudar o solo queres renovar tu cocina?.\nFacilitamos tu trabajo con artículos que sabemos que no pueden faltar en tu cocina.\nConoce nuestros Set de Vajillas Completos.",
+  "cost": 4800,
+  "currency": "UYU",
+  "soldCount": 23,
+  "category": {
+    "id": 211,
+    "name": "Cocina"
+  },
+  "images": [
+    "https://racher95.github.io/diy-emercado-api/images/products/1758497315353-0-D_NQ_NP_2X_941816-MLU76911793418_062024-F.webp",
+    "https://racher95.github.io/diy-emercado-api/images/products/1758497332802-0-D_NQ_NP_2X_740108-MLU77121357891_062024-F.webp"
+  ],
+  "relatedProducts": [
+    {
+      "id": 112,
+      "name": "Juego De Ollas Antiadherente 17 Piezas Con Mango Removible",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758496556184-0-D_NQ_NP_2X_900199-MLU90805483880_082025-F.webp",
+      "cost": 7800,
+      "currency": "UYU",
+      "category": "Cocina",
+      "featured": false,
+      "stock": 50,
+      "addedAt": "2025-09-21T23:29:23.048Z"
+    }
+  ],
+  "featured": true,
+  "stock": 50,
+  "lowStock": false,
+  "flashSale": {
+    "active": false,
+    "price": null,
+    "startsAt": null,
+    "endsAt": null
+  },
+  "updatedAt": "2025-09-21T23:29:22.950Z"
+}
