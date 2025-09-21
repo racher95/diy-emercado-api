@@ -1,0 +1,51 @@
+{
+  "id": 103,
+  "name": "Kit Caja De Herramientas 17 Partes",
+  "description": "Descubre la Juguete Caja De Herramientas de 17 Pcs de la marca PolarB, un fascinante set diseñado para estimular la creatividad y la imaginación de los más pequeños. Con unas medidas de 18x11x12 cm, este juguete es perfecto para manos pequeñas. Recomendado para niños a partir de 3 años, este kit de fábrica es ideal para desarrollar habilidades motoras y de resolución de problemas",
+  "cost": 880,
+  "currency": "UYU",
+  "soldCount": 29,
+  "category": {
+    "id": 210,
+    "name": "Juguetes"
+  },
+  "images": [
+    "https://racher95.github.io/diy-emercado-api/images/products/1758496203308-0-D_NQ_NP_2X_731680-MLA92054602561_092025-F.webp",
+    "https://racher95.github.io/diy-emercado-api/images/products/1758496219975-0-D_NQ_NP_2X_674008-MLU79372449173_092024-F.webp",
+    "https://racher95.github.io/diy-emercado-api/images/products/1758496230408-0-D_NQ_NP_2X_960928-MLA91654836946_092025-F.webp"
+  ],
+  "relatedProducts": [
+    {
+      "id": 101,
+      "name": "Set Para Crear Pulseras",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758495432199-0-D_NQ_NP_2X_967917-MLU71371144527_082023-F.webp",
+      "cost": 790,
+      "currency": "UYU",
+      "category": "Juguetes",
+      "featured": true,
+      "stock": 50,
+      "addedAt": "2025-09-21T23:11:41.595Z"
+    },
+    {
+      "id": 102,
+      "name": "Kit de construcción Lego Jurassic World",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758495817530-0-D_NQ_NP_2X_677695-MLA82154291989_012025-F.webp",
+      "cost": 3000,
+      "currency": "UYU",
+      "category": "Juguetes",
+      "featured": false,
+      "stock": 50,
+      "addedAt": "2025-09-21T23:11:41.727Z"
+    }
+  ],
+  "featured": false,
+  "stock": 50,
+  "lowStock": false,
+  "flashSale": {
+    "active": false,
+    "price": null,
+    "startsAt": null,
+    "endsAt": null
+  },
+  "updatedAt": "2025-09-21T23:11:41.552Z"
+}
