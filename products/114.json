@@ -23,7 +23,7 @@
       "category": "Cocina",
       "featured": false,
       "stock": 50,
-      "addedAt": "2025-09-21T23:35:29.287Z"
+      "addedAt": "2025-09-21T23:35:46.714Z"
     },
     {
       "id": 113,
@@ -34,7 +34,7 @@
       "category": "Cocina",
       "featured": true,
       "stock": 50,
-      "addedAt": "2025-09-21T23:35:29.395Z"
+      "addedAt": "2025-09-21T23:35:46.825Z"
     }
   ],
   "featured": false,
@@ -46,5 +46,5 @@
     "startsAt": null,
     "endsAt": null
   },
-  "updatedAt": "2025-09-21T23:35:29.215Z"
+  "updatedAt": "2025-09-21T23:35:46.616Z"
 }
