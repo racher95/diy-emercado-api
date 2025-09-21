@@ -56,7 +56,7 @@
       "cost": 10000,
       "currency": "UYU",
       "soldCount": 22,
-      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_733304-MLA79604912913_092024-F.webp",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758481801142-0-D_NQ_NP_2X_844312-MLA80192986927_102024-F.webp",
       "category": {
         "id": 209,
         "name": "Muebles"
@@ -70,7 +70,7 @@
         "startsAt": null,
         "endsAt": null
       },
-      "updatedAt": "2025-09-21T19:04:14.222Z"
+      "updatedAt": "2025-09-21T19:10:31.086Z"
     }
   ]
 }
