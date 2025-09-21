@@ -1,12 +1,5 @@
 [
   {
-    "id": 203,
-    "name": "Electrónica DIY",
-    "description": "Kits y módulos para proyectos con microcontroladores.",
-    "productCount": 6,
-    "imgSrc": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1200&auto=format&fit=crop"
-  },
-  {
     "id": 204,
     "name": "Textil & Costura",
     "description": "Proyectos de costura fáciles: fundas, mochilas, accesorios.",
