@@ -1,5 +1,15 @@
 {
   "catID": 210,
   "catName": "Juguetes",
-  "products": []
+  "products": [
+    {
+      "id": 101,
+      "name": "Set Para Crear Pulseras",
+      "description": "Pulsera de bricolaje y diseño creativo: haz tu propia pulsera de estilo único. Solo la imaginación y la creatividad pueden limitar la fabricación de pulseras.",
+      "cost": 790,
+      "currency": "UYU",
+      "soldCount": 30,
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758495432199-0-D_NQ_NP_2X_967917-MLU71371144527_082023-F.webp"
+    }
+  ]
 }
