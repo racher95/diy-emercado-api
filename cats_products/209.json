@@ -19,6 +19,15 @@
       "currency": "UYU",
       "soldCount": 40,
       "image": "https://racher95.github.io/diy-emercado-api/images/products/1758494415255-0-D_NQ_NP_2X_748719-MLA88425549809_072025-F.webp"
+    },
+    {
+      "id": 93,
+      "name": "Set de Estanterías Biblioteca Repisa Multiuso",
+      "description": "Estas estanterías son perfectas para organizar y decorar cualquier espacio de tu hogar u oficina. Con un diseño moderno y elegante, están fabricadas en MDP, un material duradero y resistente.",
+      "cost": 4300,
+      "currency": "UYU",
+      "soldCount": 26,
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758495006089-0-D_NQ_NP_2X_954158-MLA84836203041_052025-F.webp"
     }
   ]
 }
