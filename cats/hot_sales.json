@@ -102,6 +102,31 @@
       "updatedAt": "2025-09-21T23:01:35.151Z",
       "flashPrice": 690,
       "discount": 13
+    },
+    {
+      "id": 201,
+      "name": "Juego De Ollas Antiadherente 17 Piezas Con Mango Removible",
+      "description": "Si querés equipar tu cocina con lo mejor, esta Batería de Cocina Antiadherente de 13 Piezas es la opción ideal. Incluye ollas, sartenes y utensilios diseñados para que disfrutes de la mejor experiencia al cocinar.\nGracias a su revestimiento antiadherente de alta calidad, evita que los alimentos se peguen y facilita la limpieza. Su material de aluminio distribuye el calor de manera uniforme, asegurando una cocción eficiente y pareja",
+      "cost": 7800,
+      "currency": "UYU",
+      "soldCount": 45,
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758496556184-0-D_NQ_NP_2X_900199-MLU90805483880_082025-F.webp",
+      "category": {
+        "id": 211,
+        "name": "Cocina"
+      },
+      "featured": false,
+      "stock": 50,
+      "lowStock": false,
+      "flashSale": {
+        "active": true,
+        "price": 3999,
+        "startsAt": "2025-09-21T23:16:00.000Z",
+        "endsAt": "2025-12-20T23:16:00.000Z"
+      },
+      "updatedAt": "2025-09-21T23:17:01.212Z",
+      "flashPrice": 3999,
+      "discount": 49
     }
   ]
 }
