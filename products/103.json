@@ -24,7 +24,7 @@
       "category": "Juguetes",
       "featured": true,
       "stock": 50,
-      "addedAt": "2025-09-21T23:12:08.730Z"
+      "addedAt": "2025-09-21T23:13:24.933Z"
     },
     {
       "id": 102,
@@ -35,7 +35,7 @@
       "category": "Juguetes",
       "featured": false,
       "stock": 50,
-      "addedAt": "2025-09-21T23:12:08.872Z"
+      "addedAt": "2025-09-21T23:13:25.054Z"
     }
   ],
   "featured": false,
@@ -47,5 +47,5 @@
     "startsAt": null,
     "endsAt": null
   },
-  "updatedAt": "2025-09-21T23:12:08.664Z"
+  "updatedAt": "2025-09-21T23:13:24.591Z"
 }
