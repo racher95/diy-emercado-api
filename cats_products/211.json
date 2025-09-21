@@ -19,6 +19,15 @@
       "currency": "UYU",
       "soldCount": 45,
       "image": "https://racher95.github.io/diy-emercado-api/images/products/1758496556184-0-D_NQ_NP_2X_900199-MLU90805483880_082025-F.webp"
+    },
+    {
+      "id": 113,
+      "name": "uego De Ollas Cocina Batería Tramontina 56 Piezas Cubiertos",
+      "description": "¿Te estas por mudar o solo queres renovar tu cocina?.\nFacilitamos tu trabajo con artículos que sabemos que no pueden faltar en tu cocina.\nConoce nuestros Set de Vajillas Completos.",
+      "cost": 4800,
+      "currency": "UYU",
+      "soldCount": 23,
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758497315353-0-D_NQ_NP_2X_941816-MLU76911793418_062024-F.webp"
     }
   ]
 }
