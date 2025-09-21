@@ -1,0 +1,26 @@
+{
+  "id": 91,
+  "name": "Comoda 6 Cajones 2 Mesas De Luz Madera Maciza Linea Mexicana",
+  "description": "Dale a tu dormitorio el toque cálido y auténtico del diseño mexicano con este elegante set de cómoda de 6 cajones y 2 mesas de luz, fabricado en madera maciza de alta calidad. Su estilo rústico y robusto aporta carácter, durabilidad y funcionalidad a cualquier ambiente.",
+  "cost": 10000,
+  "currency": "UYU",
+  "soldCount": 22,
+  "category": {
+    "id": 209,
+    "name": "Muebles"
+  },
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_2X_733304-MLA79604912913_092024-F.webp"
+  ],
+  "relatedProducts": [],
+  "featured": true,
+  "stock": 50,
+  "lowStock": false,
+  "flashSale": {
+    "active": false,
+    "price": null,
+    "startsAt": null,
+    "endsAt": null
+  },
+  "updatedAt": "2025-09-21T19:04:10.495Z"
+}
