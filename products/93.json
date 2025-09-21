@@ -1,0 +1,50 @@
+{
+  "id": 93,
+  "name": "Set de Estanterías Biblioteca Repisa Multiuso",
+  "description": "Estas estanterías son perfectas para organizar y decorar cualquier espacio de tu hogar u oficina. Con un diseño moderno y elegante, están fabricadas en MDP, un material duradero y resistente.",
+  "cost": 4300,
+  "currency": "UYU",
+  "soldCount": 26,
+  "category": {
+    "id": 209,
+    "name": "Muebles"
+  },
+  "images": [
+    "https://racher95.github.io/diy-emercado-api/images/products/1758495006089-0-D_NQ_NP_2X_954158-MLA84836203041_052025-F.webp",
+    "https://racher95.github.io/diy-emercado-api/images/products/1758495021222-0-D_NQ_NP_2X_791833-MLA84538158124_052025-F.webp"
+  ],
+  "relatedProducts": [
+    {
+      "id": 91,
+      "name": "Comoda 6 Cajones 2 Mesas De Luz Madera Maciza Linea Mexicana",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758481801142-0-D_NQ_NP_2X_844312-MLA80192986927_102024-F.webp",
+      "cost": 10000,
+      "currency": "UYU",
+      "category": "Muebles",
+      "featured": true,
+      "stock": 50,
+      "addedAt": "2025-09-21T22:51:07.785Z"
+    },
+    {
+      "id": 92,
+      "name": "Kit De Cocina Bajo Mesada Mas Pileta",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758494415255-0-D_NQ_NP_2X_748719-MLA88425549809_072025-F.webp",
+      "cost": 5000,
+      "currency": "UYU",
+      "category": "Muebles",
+      "featured": true,
+      "stock": 50,
+      "addedAt": "2025-09-21T22:51:07.904Z"
+    }
+  ],
+  "featured": true,
+  "stock": 50,
+  "lowStock": false,
+  "flashSale": {
+    "active": false,
+    "price": null,
+    "startsAt": null,
+    "endsAt": null
+  },
+  "updatedAt": "2025-09-21T22:51:07.820Z"
+}
