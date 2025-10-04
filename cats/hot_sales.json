@@ -79,6 +79,31 @@
       "discount": 17
     },
     {
+      "id": 92,
+      "name": "Kit De Cocina Bajo Mesada Mas Pileta",
+      "description": "Este conjunto de muebles de cocina es una opción económica y de alta calidad para aquellos que desean renovar o construir su cocina sin gastar demasiado.\nEl bajo mesada y la pila de acero inoxidable son duraderos y fáciles de mantener, y el mueble está construido en MDP, lo que lo hace más resistente a la humedad que el MDF tradicional.",
+      "cost": 5000,
+      "currency": "UYU",
+      "soldCount": 40,
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758494415255-0-D_NQ_NP_2X_748719-MLA88425549809_072025-F.webp",
+      "category": {
+        "id": 209,
+        "name": "Muebles"
+      },
+      "featured": true,
+      "stock": 50,
+      "lowStock": false,
+      "flashSale": {
+        "active": true,
+        "price": 3500,
+        "startsAt": "2025-09-22T01:42:00.000Z",
+        "endsAt": "2026-01-01T01:42:00.000Z"
+      },
+      "updatedAt": "2025-09-21T22:47:03.586Z",
+      "flashPrice": 3500,
+      "discount": 30
+    },
+    {
       "id": 101,
       "name": "Set Para Crear Pulseras",
       "description": "Pulsera de bricolaje y diseño creativo: haz tu propia pulsera de estilo único. Solo la imaginación y la creatividad pueden limitar la fabricación de pulseras.",
@@ -102,6 +127,31 @@
       "updatedAt": "2025-09-21T23:01:35.151Z",
       "flashPrice": 690,
       "discount": 13
+    },
+    {
+      "id": 112,
+      "name": "Juego De Ollas Antiadherente 17 Piezas Con Mango Removible",
+      "description": "Si querés equipar tu cocina con lo mejor, esta Batería de Cocina Antiadherente de 13 Piezas es la opción ideal. Incluye ollas, sartenes y utensilios diseñados para que disfrutes de la mejor experiencia al cocinar.\nGracias a su revestimiento antiadherente de alta calidad, evita que los alimentos se peguen y facilita la limpieza. Su material de aluminio distribuye el calor de manera uniforme, asegurando una cocción eficiente y pareja",
+      "cost": 7800,
+      "currency": "UYU",
+      "soldCount": 45,
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758497937125-0-D_NQ_NP_2X_900199-MLU90805483880_082025-F.webp",
+      "category": {
+        "id": 211,
+        "name": "Cocina"
+      },
+      "featured": false,
+      "stock": 50,
+      "lowStock": false,
+      "flashSale": {
+        "active": true,
+        "price": 3999,
+        "startsAt": "2025-09-22T08:16:00.000Z",
+        "endsAt": "2025-12-21T08:16:00.000Z"
+      },
+      "updatedAt": "2025-09-21T23:39:25.936Z",
+      "flashPrice": 3999,
+      "discount": 49
     }
   ]
 }
