@@ -10,8 +10,7 @@
     "name": "Deportes & Fitness"
   },
   "images": [
-    "https://racher95.github.io/diy-emercado-api/images/products/1758285753641-0-yoga.webp",
-    "https://racher95.github.io/diy-emercado-api/images/products/1758285760546-0-yoga 2.webp"
+    "https://racher95.github.io/diy-emercado-api/images/products/1758285753641-0-yoga.webp"
   ],
   "relatedProducts": [],
   "featured": false,
@@ -23,5 +22,5 @@
     "startsAt": null,
     "endsAt": null
   },
-  "updatedAt": "2025-09-19T12:43:07.242Z"
+  "updatedAt": "2025-10-04T00:17:51.279Z"
 }
