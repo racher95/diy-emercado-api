@@ -12,7 +12,30 @@
   "images": [
     "https://racher95.github.io/diy-emercado-api/images/products/1758285753641-0-yoga.webp"
   ],
-  "relatedProducts": [],
+  "relatedProducts": [
+    {
+      "id": 62,
+      "name": "Kit Gonex Portable Home Gym",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758286502306-0-Gonex-Portable-Home-Gym.webp",
+      "cost": 3000,
+      "currency": "UYU",
+      "category": "Deportes & Fitness",
+      "featured": false,
+      "stock": 50,
+      "addedAt": "2025-10-07T18:07:34.032Z"
+    },
+    {
+      "id": 63,
+      "name": "Kit Pilates Athletic",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758288810874-0-Pelota-Pilates-Athletic-65Cm-Anillo-Pilates-Banda-Elastica.jpg",
+      "cost": 1200,
+      "currency": "UYU",
+      "category": "Deportes & Fitness",
+      "featured": false,
+      "stock": 50,
+      "addedAt": "2025-10-07T18:07:34.176Z"
+    }
+  ],
   "featured": false,
   "stock": 50,
   "lowStock": false,
@@ -22,5 +45,5 @@
     "startsAt": null,
     "endsAt": null
   },
-  "updatedAt": "2025-10-04T00:19:05.262Z"
+  "updatedAt": "2025-10-07T18:07:33.657Z"
 }
