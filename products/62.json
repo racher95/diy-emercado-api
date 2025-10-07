@@ -24,7 +24,18 @@
       "category": "Deportes & Fitness",
       "featured": false,
       "stock": 50,
-      "addedAt": "2025-09-19T13:39:22.665Z"
+      "addedAt": "2025-10-07T18:16:30.053Z"
+    },
+    {
+      "id": 63,
+      "name": "Kit Pilates Athletic",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758288810874-0-Pelota-Pilates-Athletic-65Cm-Anillo-Pilates-Banda-Elastica.jpg",
+      "cost": 1200,
+      "currency": "UYU",
+      "category": "Deportes & Fitness",
+      "featured": false,
+      "stock": 50,
+      "addedAt": "2025-10-07T18:16:30.179Z"
     }
   ],
   "featured": false,
@@ -36,5 +47,5 @@
     "startsAt": null,
     "endsAt": null
   },
-  "updatedAt": "2025-09-19T13:39:22.948Z"
+  "updatedAt": "2025-10-07T18:16:30.371Z"
 }
