@@ -5,5 +5,12 @@
     "description": "Muy bueno!",
     "user": "aa@gmail.com",
     "dateTime": "2025-10-07 00:16:59"
+  },
+  {
+    "product": 71,
+    "score": 5,
+    "description": "Me gusta, muy útil!!",
+    "user": "renzxavi@gmail.com",
+    "dateTime": "2025-10-07 01:02:49"
   }
 ]
