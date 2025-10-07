@@ -14,7 +14,30 @@
     "https://racher95.github.io/diy-emercado-api/images/products/1758291978866-0-Trial-Kit-temp_1d154cfc-5cbe-4b0a-a757-156c5c6cdcef_1500x.webp",
     "https://racher95.github.io/diy-emercado-api/images/products/1758291987797-0-activist-skincare-cleansers_1fc92342-76ee-4097-8ff9-a773ceabbdc1_1500x.webp"
   ],
-  "relatedProducts": [],
+  "relatedProducts": [
+    {
+      "id": 72,
+      "name": "Kit Capilar Olaplex",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758293210302-0-AD6C4C8F-B72A-47E0-ADBB-887FF96AD950.webp",
+      "cost": 5000,
+      "currency": "UYU",
+      "category": "Belleza y Cuidado Personal",
+      "featured": false,
+      "stock": 50,
+      "addedAt": "2025-10-07T18:15:29.832Z"
+    },
+    {
+      "id": 73,
+      "name": "Set Natural Beauty Pomegranate Lotus",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758296396887-0-vs2.PNG",
+      "cost": 1600,
+      "currency": "UYU",
+      "category": "Belleza y Cuidado Personal",
+      "featured": false,
+      "stock": 50,
+      "addedAt": "2025-10-07T18:15:29.991Z"
+    }
+  ],
   "featured": true,
   "stock": 50,
   "lowStock": false,
@@ -24,5 +47,5 @@
     "startsAt": null,
     "endsAt": null
   },
-  "updatedAt": "2025-09-19T14:37:00.869Z"
+  "updatedAt": "2025-10-07T18:15:29.866Z"
 }
