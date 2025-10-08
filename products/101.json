@@ -12,15 +12,38 @@
   "images": [
     "https://racher95.github.io/diy-emercado-api/images/products/1758495432199-0-D_NQ_NP_2X_967917-MLU71371144527_082023-F.webp"
   ],
-  "relatedProducts": [],
+  "relatedProducts": [
+    {
+      "id": 102,
+      "name": "Kit de construcción Lego Jurassic World",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758495817530-0-D_NQ_NP_2X_677695-MLA82154291989_012025-F.webp",
+      "cost": 3000,
+      "currency": "UYU",
+      "category": "Juguetes",
+      "featured": false,
+      "stock": 50,
+      "addedAt": "2025-10-08T03:36:44.033Z"
+    },
+    {
+      "id": 103,
+      "name": "Kit Caja De Herramientas 17 Partes",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758496203308-0-D_NQ_NP_2X_731680-MLA92054602561_092025-F.webp",
+      "cost": 880,
+      "currency": "UYU",
+      "category": "Juguetes",
+      "featured": false,
+      "stock": 50,
+      "addedAt": "2025-10-08T03:36:44.162Z"
+    }
+  ],
   "featured": true,
   "stock": 50,
   "lowStock": false,
   "flashSale": {
     "active": true,
     "price": 690,
-    "startsAt": "2025-09-20T23:00:00.000Z",
-    "endsAt": "2025-12-24T23:00:00.000Z"
+    "startsAt": "2025-09-21T02:00:00.000Z",
+    "endsAt": "2025-12-25T02:00:00.000Z"
   },
-  "updatedAt": "2025-09-21T23:01:35.151Z"
+  "updatedAt": "2025-10-08T03:36:43.688Z"
 }
