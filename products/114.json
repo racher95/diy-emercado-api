@@ -15,26 +15,26 @@
   ],
   "relatedProducts": [
     {
-      "id": 112,
-      "name": "Juego De Ollas Antiadherente 17 Piezas Con Mango Removible",
-      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758496556184-0-D_NQ_NP_2X_900199-MLU90805483880_082025-F.webp",
-      "cost": 7800,
-      "currency": "UYU",
-      "category": "Cocina",
-      "featured": false,
-      "stock": 50,
-      "addedAt": "2025-09-21T23:36:33.993Z"
-    },
-    {
       "id": 113,
-      "name": "uego De Ollas Cocina Batería Tramontina 56 Piezas Cubiertos",
+      "name": "Juego De Ollas Cocina Batería Tramontina 56 Piezas Cubiertos",
       "image": "https://racher95.github.io/diy-emercado-api/images/products/1758497315353-0-D_NQ_NP_2X_941816-MLU76911793418_062024-F.webp",
       "cost": 4800,
       "currency": "UYU",
       "category": "Cocina",
       "featured": true,
       "stock": 50,
-      "addedAt": "2025-09-21T23:36:34.091Z"
+      "addedAt": "2025-10-08T03:42:08.918Z"
+    },
+    {
+      "id": 112,
+      "name": "Juego De Ollas Antiadherente 17 Piezas Con Mango Removible",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758497937125-0-D_NQ_NP_2X_900199-MLU90805483880_082025-F.webp",
+      "cost": 7800,
+      "currency": "UYU",
+      "category": "Cocina",
+      "featured": false,
+      "stock": 50,
+      "addedAt": "2025-10-08T03:42:09.037Z"
     }
   ],
   "featured": false,
@@ -46,5 +46,5 @@
     "startsAt": null,
     "endsAt": null
   },
-  "updatedAt": "2025-09-21T23:36:33.762Z"
+  "updatedAt": "2025-10-08T03:42:08.567Z"
 }
