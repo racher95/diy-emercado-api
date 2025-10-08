@@ -14,15 +14,38 @@
     "https://racher95.github.io/diy-emercado-api/images/products/1758497947025-0-D_NQ_NP_2X_906007-MLU82272721502_022025-F.webp",
     "https://racher95.github.io/diy-emercado-api/images/products/1758497956941-0-D_NQ_NP_2X_927714-MLU83177259031_032025-F.webp"
   ],
-  "relatedProducts": [],
+  "relatedProducts": [
+    {
+      "id": 113,
+      "name": "Juego De Ollas Cocina Batería Tramontina 56 Piezas Cubiertos",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758497315353-0-D_NQ_NP_2X_941816-MLU76911793418_062024-F.webp",
+      "cost": 4800,
+      "currency": "UYU",
+      "category": "Cocina",
+      "featured": true,
+      "stock": 50,
+      "addedAt": "2025-10-08T03:38:37.294Z"
+    },
+    {
+      "id": 114,
+      "name": "Set De Decoración Repostería Tortas Pasteleria 236 Piezas",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758497656671-0-1000x1000-REPOS006-A.jpg",
+      "cost": 1200,
+      "currency": "UYU",
+      "category": "Cocina",
+      "featured": false,
+      "stock": 50,
+      "addedAt": "2025-10-08T03:38:37.397Z"
+    }
+  ],
   "featured": false,
   "stock": 50,
   "lowStock": false,
   "flashSale": {
     "active": true,
     "price": 3999,
-    "startsAt": "2025-09-22T08:16:00.000Z",
-    "endsAt": "2025-12-21T08:16:00.000Z"
+    "startsAt": "2025-09-22T11:16:00.000Z",
+    "endsAt": "2025-12-21T11:16:00.000Z"
   },
-  "updatedAt": "2025-09-21T23:39:25.936Z"
+  "updatedAt": "2025-10-08T03:38:36.946Z"
 }
