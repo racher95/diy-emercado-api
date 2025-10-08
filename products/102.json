@@ -24,7 +24,18 @@
       "category": "Juguetes",
       "featured": true,
       "stock": 50,
-      "addedAt": "2025-09-21T23:06:33.747Z"
+      "addedAt": "2025-10-08T03:37:14.367Z"
+    },
+    {
+      "id": 103,
+      "name": "Kit Caja De Herramientas 17 Partes",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758496203308-0-D_NQ_NP_2X_731680-MLA92054602561_092025-F.webp",
+      "cost": 880,
+      "currency": "UYU",
+      "category": "Juguetes",
+      "featured": false,
+      "stock": 50,
+      "addedAt": "2025-10-08T03:37:14.485Z"
     }
   ],
   "featured": false,
@@ -36,5 +47,5 @@
     "startsAt": null,
     "endsAt": null
   },
-  "updatedAt": "2025-09-21T23:06:33.741Z"
+  "updatedAt": "2025-10-08T03:37:14.026Z"
 }
