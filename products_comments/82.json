@@ -5,5 +5,12 @@
     "description": "Muy util, es algo impresindible a la hora de crear productos DIY",
     "user": "Gokuuuu",
     "dateTime": "2025-10-08 12:44:26"
+  },
+  {
+    "product": 82,
+    "score": 5,
+    "description": "Muy duradera la herramienta",
+    "user": "ren@gmail.com",
+    "dateTime": "2025-10-08 13:20:10"
   }
 ]
