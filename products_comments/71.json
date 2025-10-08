@@ -9,8 +9,15 @@
   {
     "product": 71,
     "score": 5,
-    "description": "Me gusta, muy útil!!",
+    "description": "Me gusta, muy Ãºtil!!",
     "user": "renzxavi@gmail.com",
     "dateTime": "2025-10-07 01:02:49"
+  },
+  {
+    "product": 71,
+    "score": 5,
+    "description": "Muy buen kit , muy bueno para el cuidado capilar me encanto.",
+    "user": "Cavendish",
+    "dateTime": "2025-10-08 13:58:48"
   }
 ]
