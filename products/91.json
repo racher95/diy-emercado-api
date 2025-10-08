@@ -13,7 +13,30 @@
     "https://racher95.github.io/diy-emercado-api/images/products/1758481801142-0-D_NQ_NP_2X_844312-MLA80192986927_102024-F.webp",
     "https://racher95.github.io/diy-emercado-api/images/products/1758481817202-0-D_NQ_NP_2X_622713-MLU81804917114_012025-F.webp"
   ],
-  "relatedProducts": [],
+  "relatedProducts": [
+    {
+      "id": 92,
+      "name": "Kit De Cocina Bajo Mesada Mas Pileta",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758494415255-0-D_NQ_NP_2X_748719-MLA88425549809_072025-F.webp",
+      "cost": 5000,
+      "currency": "UYU",
+      "category": "Muebles",
+      "featured": true,
+      "stock": 50,
+      "addedAt": "2025-10-08T03:33:21.540Z"
+    },
+    {
+      "id": 93,
+      "name": "Set de Estanterías Biblioteca Repisa Multiuso",
+      "image": "https://racher95.github.io/diy-emercado-api/images/products/1758495006089-0-D_NQ_NP_2X_954158-MLA84836203041_052025-F.webp",
+      "cost": 4300,
+      "currency": "UYU",
+      "category": "Muebles",
+      "featured": true,
+      "stock": 50,
+      "addedAt": "2025-10-08T03:33:21.635Z"
+    }
+  ],
   "featured": true,
   "stock": 50,
   "lowStock": false,
@@ -23,5 +46,5 @@
     "startsAt": null,
     "endsAt": null
   },
-  "updatedAt": "2025-09-21T19:10:31.086Z"
+  "updatedAt": "2025-10-08T03:33:21.035Z"
 }
