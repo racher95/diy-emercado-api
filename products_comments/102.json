@@ -5,5 +5,14 @@
     "description": "Esta muy bueno, se lo regale a mi sobrino",
     "user": "kevin",
     "dateTime": "2025-10-11 05:01:34"
+  },
+  {
+    "product": 102,
+    "score": 1,
+    "description": "mi sobrino lo rompió al día siguiente",
+    "user": "kevin",
+    "dateTime": "2025-10-14 03:53:21",
+    "avatarUrl": "https://racher95.github.io/diy-emercado-api/images/comments/kevin.png",
+    "avatarHash": "bb28b27f5c097ef7a07c8759a20f22159f23372d"
   }
 ]
