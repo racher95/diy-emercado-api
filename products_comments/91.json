@@ -5,5 +5,14 @@
     "description": "me gusta, buena calidad",
     "user": "joaquinazul@gmail.com",
     "dateTime": "2025-10-08 13:22:14"
+  },
+  {
+    "product": 91,
+    "score": 4,
+    "description": "los colores muy lindos",
+    "user": "kevin",
+    "dateTime": "2025-10-14 05:25:06",
+    "avatarUrl": "https://racher95.github.io/diy-emercado-api/images/comments/kevin.png",
+    "avatarHash": "b72d42a274727195ff4acb620e8ae50378c84892"
   }
 ]
