@@ -9,10 +9,19 @@
   {
     "product": 102,
     "score": 1,
-    "description": "mi sobrino lo rompi� al d�a siguiente",
+    "description": "mi sobrino lo rompiÃ³ al dÃ­a siguiente",
     "user": "kevin",
     "dateTime": "2025-10-14 03:53:21",
     "avatarUrl": "https://racher95.github.io/diy-emercado-api/images/comments/kevin.png",
     "avatarHash": "bb28b27f5c097ef7a07c8759a20f22159f23372d"
+  },
+  {
+    "product": 102,
+    "score": 5,
+    "description": "Soy el sobrino , le dije a uno de mis tios que se me rompio asi que se lo pedi al otro y ahora tengo dos.\nMuy divertido",
+    "user": "Thiago",
+    "dateTime": "2025-10-15 11:30:49",
+    "avatarUrl": "https://racher95.github.io/diy-emercado-api/images/comments/thiago.png",
+    "avatarHash": "5db6ac69d368c0eb177a8c346ddebd4c3a616034"
   }
 ]
