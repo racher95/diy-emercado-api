@@ -16,8 +16,17 @@
   {
     "product": 82,
     "score": 4,
-    "description": "Muy buena, me sirvi� un mont�n",
+    "description": "Muy buena, me sirviÃ³ un montÃ³n",
     "user": "kevin",
     "dateTime": "2025-10-14 00:28:33"
+  },
+  {
+    "product": 82,
+    "score": 3,
+    "description": "okok ddderetretrtrett",
+    "user": "dfsdfsdf",
+    "dateTime": "2025-10-27 12:35:21",
+    "avatarUrl": "https://racher95.github.io/diy-emercado-api/images/comments/dfsdfsdf.png",
+    "avatarHash": "8b8fc39b718b26b011eec6690261e40c62d995f7"
   }
 ]
