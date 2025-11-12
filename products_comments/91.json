@@ -14,5 +14,14 @@
     "dateTime": "2025-10-14 05:25:06",
     "avatarUrl": "https://racher95.github.io/diy-emercado-api/images/comments/kevin.png",
     "avatarHash": "b72d42a274727195ff4acb620e8ae50378c84892"
+  },
+  {
+    "product": 91,
+    "score": 1,
+    "description": "Me la compre porque lo que ofrecia me interesaba pero la verdad que de comoda no tiene nada , mi espalda quedo peor de lo que estaba.\nNo recomiendo.",
+    "user": "weqrwqer",
+    "dateTime": "2025-11-12 14:04:49",
+    "avatarUrl": "https://racher95.github.io/diy-emercado-api/images/comments/weqrwqer.png",
+    "avatarHash": "057f0a35ae0f8620824345a31e723696e9c55cfe"
   }
 ]
