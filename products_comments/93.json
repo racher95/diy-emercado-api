@@ -7,5 +7,14 @@
     "dateTime": "2025-10-14 03:51:27",
     "avatarUrl": "https://racher95.github.io/diy-emercado-api/images/comments/kevin.png",
     "avatarHash": "b72d42a274727195ff4acb620e8ae50378c84892"
+  },
+  {
+    "product": 93,
+    "score": 5,
+    "description": "Muy contento con el producto , es multiuso , ademas de servir para poner estantes sirve para practicar escalada, hasta te da la sensacion de que se va a romper en cualquier momento y eso le suma a la adrenalina.\nLo recomiendo",
+    "user": "weqrwqer",
+    "dateTime": "2025-11-12 14:07:49",
+    "avatarUrl": "https://racher95.github.io/diy-emercado-api/images/comments/weqrwqer.png",
+    "avatarHash": "057f0a35ae0f8620824345a31e723696e9c55cfe"
   }
 ]
