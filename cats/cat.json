@@ -16,28 +16,28 @@
   {
     "id": 208,
     "name": "Herramientas",
-    "description": "En esta sección encontrarás una amplia variedad de herramientas de alta calidad diseñadas para facilitar tus proyectos de construcción, reparación y mantenimiento. Contamos con opciones manuales, eléctricas e industriales, ideales tanto para profesionales como para aficionados del bricolaje.",
+    "description": "Todo lo que necesitás para tus trabajos de reparación y construcción. Herramientas manuales y eléctricas de calidad, diseñadas para brindar precisión, resistencia y facilidad en cada proyecto.",
     "imgSrc": "https://racher95.github.io/diy-emercado-api/images/cats/1762789737627-0-Herramientas-para-la-casa-C-1.jpg",
     "productCount": 3
   },
   {
     "id": 209,
     "name": "Muebles",
-    "description": "Categoría DIY",
+    "description": "Descubrí muebles funcionales y modernos pensados para transformar cada ambiente. Encontrá opciones duraderas, cómodas y con estilo para crear espacios que se adapten a tu hogar y tu forma de vivir.",
     "imgSrc": "https://racher95.github.io/diy-emercado-api/images/cats/1762791375754-0-9b3395df6b50b634b7b3c0be25debbef (1).jpg",
     "productCount": 3
   },
   {
     "id": 210,
     "name": "Juguetes",
-    "description": "Descubre nuestra increíble selección de juguetes pensados para estimular la imaginación, la creatividad y el aprendizaje de los más pequeños. Desde juguetes educativos hasta opciones divertidas para todas las edades, aquí encontrarás el compañero perfecto para cada etapa del crecimiento. ¡Diversión, aventura y desarrollo en cada juego!",
+    "description": "Descubre nuestra increíble selección de juguetes pensados para estimular la imaginación, la creatividad y el aprendizaje de los más pequeños . ¡Diversión, aventura y desarrollo en cada juego!",
     "imgSrc": "https://racher95.github.io/diy-emercado-api/images/cats/1762791264870-0-60fac095b05e6d2dfc4e0a58ea32d0c7.jpg",
     "productCount": 3
   },
   {
     "id": 211,
     "name": "Cocina",
-    "description": "Categoría DIY",
+    "description": "Todo lo que necesitás para equipar y organizar tu cocina. Encontrá utensilios, electrodomésticos y accesorios funcionales y modernos que facilitan cada preparación y le dan estilo a tu espacio.",
     "imgSrc": "https://racher95.github.io/diy-emercado-api/images/cats/1762789941675-0-2440x1440-fondos-de-cocina.jpg",
     "productCount": 3
   }
